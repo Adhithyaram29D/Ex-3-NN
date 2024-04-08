@@ -36,6 +36,7 @@ Step 3: Repeat the  iteration  until the losses become constant and  minimum<BR>
 Step 4 : Test for the XOR patterns.
 
 <H3>Program:</H3>
+
 ```python
 import numpy as np
 import pandas as pd
@@ -114,9 +115,11 @@ predict(w1,w2,test)
 test=np.array([[0],[0]])
 predict(w1,w2,test)
 ```
+
 <H3>Output:</H3>
 
 ![image](https://github.com/Adhithyaram29D/Ex-3-NN/assets/119393540/0064f4b4-c8fe-4e33-8839-d1bed247802d)
+<br>
 ![download](https://github.com/Adhithyaram29D/Ex-3-NN/assets/119393540/92e5bdbc-d9e0-4aa4-9abe-ae80670a98e7)
 
 <H3> Result:</H3>
